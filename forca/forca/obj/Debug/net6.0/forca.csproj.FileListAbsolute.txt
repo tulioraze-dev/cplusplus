@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\bin\Debug\net6.0\forca.exe
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\bin\Debug\net6.0\forca.deps.json
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\bin\Debug\net6.0\forca.runtimeconfig.json
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\bin\Debug\net6.0\forca.dll
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\bin\Debug\net6.0\ref\forca.dll
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\bin\Debug\net6.0\forca.pdb
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.dll
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\ref\forca.dll
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.pdb
+C:\Users\Aluno\Desktop\PROJETO BICICLETA COM RODINHA\Curso de C++\forca\forca\obj\Debug\net6.0\forca.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0073e54-8d40-4e96-aef7-e2bfa90d2ced": {
+      "ProjectGuid": "d0073e54-8d40-4e96-aef7-e2bfa90d2ced",
+      "DisplayName": "Cédulas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
